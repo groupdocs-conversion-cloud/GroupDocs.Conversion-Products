@@ -63,13 +63,17 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          GroupDocs.Conversion Cloud for Python has following SDK Requirements:
+          An overview of the features supported by GroupDocs.Conversion
 
         right:
           enable: true
           icon: "fas fa-cubes"
-          title: "Python 2.7 or 3.4+"
+          title: "Overview"
           content: |
+            * Convert from documents
+            * Convert to documents
+            * Watermark pages
+            * Password protect output
             
 
       

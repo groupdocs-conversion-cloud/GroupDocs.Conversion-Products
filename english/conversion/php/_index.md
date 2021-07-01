@@ -63,13 +63,17 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          GroupDocs.Conversion Cloud for PHP has following SDK Requirements:
+          An overview of the features supported by GroupDocs.Conversion
 
         right:
           enable: true
           icon: "fas fa-cubes"
-          title: "PHP 5.5 or later"
+          title: "Overview"
           content: |
+            * Convert from documents
+            * Convert to documents
+            * Watermark pages
+            * Password protect output
             
 
       
@@ -240,7 +244,7 @@ solutions:
         - img_alt: "GroupDocs.Conversion Cloud SDK for cURL"
           image: "/sdk/272x272/groupdocs_conversion-for-curl.webp"
           product: "GroupDocs.Conversion"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           link: "/conversion/curl/"
 
         # solution loop

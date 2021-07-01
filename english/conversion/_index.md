@@ -27,7 +27,7 @@ apis:
           img_alt: "GroupDocs.Conversion Cloud for cURL"
           image: "/sdk/272x272/groupdocs_conversion-for-curl.webp"
           product: "GroupDocs.Conversion"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Work with cURL RESTful file conversion API to easily convert Microsoft Office, PDF, Email, Project, HTML and other common file formats in your applications."
 
         # api_product loop

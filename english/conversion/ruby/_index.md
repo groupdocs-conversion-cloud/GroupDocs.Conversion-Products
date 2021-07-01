@@ -63,13 +63,17 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          GroupDocs.Conversion Cloud for Ruby has following SDK Requirements:
+          An overview of the features supported by GroupDocs.Conversion
 
         right:
           enable: true
           icon: "fas fa-cubes"
-          title: "Ruby 2.1 or later"
+          title: "Overview"
           content: |
+            * Convert from documents
+            * Convert to documents
+            * Watermark pages
+            * Password protect output
             
 
       

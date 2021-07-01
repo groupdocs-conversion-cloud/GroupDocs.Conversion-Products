@@ -63,13 +63,17 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          GroupDocs.Conversion Cloud for Java has following SDK Requirements:
+          An overview of the features supported by GroupDocs.Conversion
 
         right:
           enable: true
           icon: "fas fa-cubes"
-          title: "Java Runtime Environment"
+          title: "Overview"
           content: |
+            * Convert from documents
+            * Convert to documents
+            * Watermark pages
+            * Password protect output
             
 
       
