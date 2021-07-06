@@ -91,10 +91,6 @@ apis:
           platform: "Cloud SDK for Android"
           content: "Convert documents easily with Android SDK for our cloud based document conversion API incorporated in your application."
 
-       
-
-    
-
 ############################# Back to top ###############################
 back_to_top:
   enable: true
