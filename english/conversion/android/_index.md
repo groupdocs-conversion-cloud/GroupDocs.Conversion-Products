@@ -15,7 +15,7 @@ head_description: "Android RESTful APIs for developers to convert documents amon
 
 ############################# Header ############################
 title: "Android Cloud SDK for Document Conversion"
-description: "‎Develop applications to convert documents of popular file formats back and forth using document conversion cloud SDK for Android & REST API."
+description: "Develop applications to convert documents of popular file formats back and forth using document conversion cloud SDK for Android & REST API."
 button:
     enable: true
 
@@ -92,7 +92,7 @@ overview:
                 * **OpenDocument**: ODT, OTT, ODS, ODP, OTP, OTS, ODG
                 * **Microsoft Excel**: XLS, XLSX, XLSM, XLSB, XLT, XLAM
                 * **Microsoft PowerPoint**: PPT, PPTX, PPS, PPSX, POT
-                * **Visio‎**: VSD, VDX, VSS, VSX, VST, VTX, VSDX, VDW, VSSX, VSTX, VSDM, VSTM, VSSM
+                * **Visio**: VSD, VDX, VSS, VSX, VST, VTX, VSDX, VDW, VSSX, VSTX, VSDM, VSTM, VSSM
                 * **Project**: MPP, MPT, MPX
                 * **Microsoft OneNote**: ONE
                 * **Email**: MSG, EML, EMLX
@@ -115,7 +115,7 @@ overview:
                 * **Microsoft PowerPoint**: PPT, PPTX, PPS, PPSX
                 * **Metafiles**: WMF, EMF
                 * **Image Files**: BMP, GIF, JPG, PNG, TIFF, multi-page TIFF, WebP, SVG, DNG, PSD
-                * **Other**: PDF, EPUB, TXT, HTML‎
+                * **Other**: PDF, EPUB, TXT, HTML
 
       ## TAB THREE ##
       tab_three:

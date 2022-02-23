@@ -10,7 +10,7 @@ head_description: "Convert documents and images of all popular formats using doc
 
 ############################# Header ############################
 title: "Document and Image Conversion Solution"
-description: "‎Convert popular document and image file formats on any platform with online app & API-based solutions."
+description: "Convert popular document and image file formats on any platform with online app & API-based solutions."
 
 ############################# APIs ###############################
 apis:

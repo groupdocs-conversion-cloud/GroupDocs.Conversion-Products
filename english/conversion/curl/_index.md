@@ -15,7 +15,7 @@ head_description: "REST APIs for documents & images conversion via cURL commands
 
 ############################# Header ############################
 title: "Convert Document & Images using cURL"
-description: "‎Document conversion using cURL commands for REST APIs. Quickly and reliably convert images and documents of any file format.‎"
+description: "Document conversion using cURL commands for REST APIs. Quickly and reliably convert images and documents of any file format."
 button:
     enable: true
 
@@ -93,7 +93,7 @@ overview:
                 * **OpenDocument**: ODT, OTT, ODS, ODP, OTP, OTS, ODG
                 * **Microsoft Excel**: XLS, XLSX, XLSM, XLSB, XLT, XLAM
                 * **Microsoft PowerPoint**: PPT, PPTX, PPS, PPSX, POT
-                * **Visio‎**: VSD, VDX, VSS, VSX, VST, VTX, VSDX, VDW, VSSX, VSTX, VSDM, VSTM, VSSM
+                * **Visio**: VSD, VDX, VSS, VSX, VST, VTX, VSDX, VDW, VSSX, VSTX, VSDM, VSTM, VSSM
                 * **Project**: MPP, MPT, MPX
                 * **Microsoft OneNote**: ONE
                 * **Email**: MSG, EML, EMLX
@@ -116,7 +116,7 @@ overview:
                 * **Microsoft PowerPoint**: PPT, PPTX, PPS, PPSX
                 * **Metafiles**: WMF, EMF
                 * **Image Files**: BMP, GIF, JPG, PNG, TIFF, multi-page TIFF, WebP, SVG, DNG, PSD
-                * **Other**: PDF, EPUB, TXT, HTML‎
+                * **Other**: PDF, EPUB, TXT, HTML
 
       ## TAB THREE ##
       tab_three:
